@@ -1,24 +1,34 @@
 {
     "credentials": [
         {
+            "name": "john18@greenlevcapital.click",
             "access_key": "RN52TRKVN7SKIUG5O47X",
             "secret_key": "vFdAS8iEV6zEe6thkzYzsYPnezzQCM5uG2j9rzhK"
         },
         {
+            "name": "john20@greenlevcapital.click",
             "access_key": "BPHDSEGHC93ZZERCUQCP",
             "secret_key": "qCta2yst7Fq16DpCi48zqhb4I2CXDFsqTeeHqR0Q"
         },
         {
+            "name": "blue21@greenlevcapital.click",
             "access_key": "OGCFYBDMBHRYKNDU0SSM",
             "secret_key": "gTAGDmBZfIwnJE4QGstpuAWMoKMZEczzeA1e9eFi"
         },
         {
+            "name": "blue22@greenlevcapital.click",
             "access_key": "99O3SZSZ8HD7G2N53CKH",
             "secret_key": "ZXiV4kQ2znsfDMCuBkJdIbXmaeilBFNXFbImIo1i"
         },
         {
+            "name": "blue23@greenlevcapital.click",
             "access_key": "QJUYZFVPSVGR4MPELPDN",
             "secret_key": "kioDlluLC6zG05RszlTCwMWRkmIzXBwYC6R2DACo"
+        },
+        {
+            "name": "john15@greenlevcapital.click",
+            "access_key": "ZO82C1HTC69FJ2HUV1D6",
+            "secret_key": "NnbeFuTfHm7mvv1Kw5F4IrAWao00AcoK8fRdy72Z"
         }
     ]
 }
